@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 abdi.u StafCS 4096 Sep 22 20:39 .
+drwx--x--x  5 abdi.u StafCS 4096 Sep 22 20:37 ..
+drwxr-xr-x  8 abdi.u StafCS 4096 Sep 22 20:37 .git
+-rw-r--r--  1 abdi.u StafCS    7 Sep 22 20:18 README.md
+drwxr-xr-x  2 abdi.u StafCS 4096 Sep 22 20:33 SandBox
+-rw-r--r--  1 abdi.u StafCS    0 Sep 22 20:39 lab01.txt
+drwxr-xr-x  2 abdi.u StafCS 4096 Sep 22 20:37 week00
+drwxr-xr-x  2 abdi.u StafCS 4096 Sep 22 20:23 week01
+drwxr-xr-x  2 abdi.u StafCS 4096 Sep 22 20:24 week02
+drwxr-xr-x  2 abdi.u StafCS 4096 Sep 22 20:24 week03
+drwxr-xr-x  2 abdi.u StafCS 4096 Sep 22 20:24 week04
+drwxr-xr-x  2 abdi.u StafCS 4096 Sep 22 20:24 week05
+drwxr-xr-x  2 abdi.u StafCS 4096 Sep 22 20:24 week06
+drwxr-xr-x  2 abdi.u StafCS 4096 Sep 22 20:24 week07
+drwxr-xr-x  2 abdi.u StafCS 4096 Sep 22 20:24 week08
+drwxr-xr-x  2 abdi.u StafCS 4096 Sep 22 20:24 week09
+drwxr-xr-x  2 abdi.u StafCS 4096 Sep 22 20:25 week10
+/home/fasilkom/mahasiswa/a/abdi.u/os162/week01
