@@ -1,0 +1,1 @@
+Learning how to push and pull and understanding the concept of git repository
